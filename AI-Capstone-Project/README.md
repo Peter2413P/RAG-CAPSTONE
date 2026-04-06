@@ -1,7 +1,5 @@
 # 🎓 University Handbook Search System
 
-![System Architecture](architecture_diagram.png)
-
 A production-quality **Information Retrieval (IR)** system for university handbooks, built with Streamlit, TF-IDF ranking, a LangChain-compatible retriever, and **Phi-3 via Ollama** for RAG-based answer generation.
 
 ---
