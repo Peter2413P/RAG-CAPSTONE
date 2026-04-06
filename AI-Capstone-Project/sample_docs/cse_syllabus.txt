@@ -1,0 +1,77 @@
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+COURSE SYLLABUS - B.TECH PROGRAM 2024-2025
+
+SEMESTER I
+
+CS101 - PROGRAMMING IN C (4 Credits)
+Course Objectives: To understand fundamental programming concepts using C language.
+Unit 1: Introduction to Computers, Program structure, Data types, Variables, Constants
+Unit 2: Operators, Expressions, Control structures (if, switch, loops)
+Unit 3: Functions, Recursion, Storage classes, Scope of variables
+Unit 4: Arrays, Strings, Pointers, Dynamic memory allocation
+Unit 5: Structures, Unions, File handling, Preprocessor directives
+Examination Pattern: Theory (80 marks) + Internal Assessment (20 marks)
+Reference Books: Let Us C by Yashavant Kanetkar, C Programming by K&R
+
+CS102 - DISCRETE MATHEMATICS (4 Credits)
+Unit 1: Set theory, Relations, Functions, Logic and Propositional calculus
+Unit 2: Graph theory - Graphs, Trees, Spanning trees, Shortest paths
+Unit 3: Combinatorics - Permutations, Combinations, Pigeonhole principle
+Unit 4: Algebraic structures - Groups, Rings, Fields
+Unit 5: Automata theory basics
+
+SEMESTER III
+
+CS301 - DATA STRUCTURES AND ALGORITHMS (4 Credits)
+Course Objectives: Design and implement fundamental data structures and algorithms.
+Unit 1: Arrays, Linked Lists (Singly, Doubly, Circular)
+Unit 2: Stacks, Queues, Priority Queues
+Unit 3: Trees - Binary Tree, BST, AVL Tree, Heap
+Unit 4: Graphs - BFS, DFS, Minimum Spanning Tree, Shortest Path algorithms
+Unit 5: Sorting (Merge, Quick, Heap Sort) and Searching algorithms, Hashing
+Lab: Implement all data structures in C/C++/Python (2 credits)
+Examination Pattern: Theory (60 marks) + Lab (40 marks)
+
+CS302 - DATABASE MANAGEMENT SYSTEMS (4 Credits)
+Unit 1: Introduction to DBMS, ER modeling, Relational model
+Unit 2: SQL - DDL, DML, DCL, TCL commands, Joins, Subqueries
+Unit 3: Normalization - 1NF, 2NF, 3NF, BCNF
+Unit 4: Transaction management, Concurrency control, Recovery
+Unit 5: NoSQL databases - MongoDB basics, CAP theorem
+
+SEMESTER V
+
+CS501 - MACHINE LEARNING (4 Credits)
+Prerequisites: Probability and Statistics, Linear Algebra
+Unit 1: Introduction to ML, Types of learning, Feature engineering
+Unit 2: Supervised Learning - Linear Regression, Logistic Regression, SVM
+Unit 3: Decision Trees, Random Forests, Ensemble methods
+Unit 4: Unsupervised Learning - Clustering (K-Means, DBSCAN), PCA
+Unit 5: Neural Networks, Backpropagation, Deep Learning introduction
+Lab: Implement ML algorithms using Python (scikit-learn, TensorFlow)
+
+CS502 - COMPUTER NETWORKS (4 Credits)
+Unit 1: Network models - OSI, TCP/IP, Physical layer concepts
+Unit 2: Data link layer - Framing, Error detection, MAC protocols
+Unit 3: Network layer - IP addressing, Routing algorithms (OSPF, BGP)
+Unit 4: Transport layer - TCP, UDP, Congestion control
+Unit 5: Application layer - HTTP, DNS, SMTP, FTP, Socket programming
+
+SEMESTER VII
+
+CS701 - ARTIFICIAL INTELLIGENCE (4 Credits)
+Unit 1: Problem solving, Search strategies (BFS, DFS, A*, Hill climbing)
+Unit 2: Knowledge representation - Propositional logic, First-order logic
+Unit 3: Planning, Uncertainty, Bayesian networks
+Unit 4: Natural Language Processing basics, Information retrieval
+Unit 5: Expert systems, Ethical AI, Future of AI
+
+CS702 - FINAL YEAR PROJECT - PHASE I (6 Credits)
+Students must identify a problem, review literature, and submit a detailed project proposal.
+Evaluation: Proposal presentation (30%) + Report (70%)
+
+IMPORTANT NOTES FOR STUDENTS:
+- Minimum 75% attendance is required in all courses
+- Internal assessment marks are based on two unit tests and assignments
+- Students scoring below 40% in internals will not be permitted to appear for end-semester examinations
+- All lab experiments must be completed and recorded in the observation book

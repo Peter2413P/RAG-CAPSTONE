@@ -1,0 +1,18 @@
+# ── Core UI ───────────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── Document loaders ─────────────────────────────────────────────────────────
+PyMuPDF>=1.23.0          # PDF extraction (fitz)
+pdfplumber>=0.10.0       # PDF fallback extractor
+python-docx>=1.1.0       # DOCX extraction
+beautifulsoup4>=4.12.0   # HTML extraction
+lxml>=5.0.0              # HTML parser backend for BeautifulSoup
+
+# ── NLP / Preprocessing ───────────────────────────────────────────────────────
+nltk>=3.8.1              # Tokenization, stopwords, lemmatization
+
+# ── Numeric / Data ────────────────────────────────────────────────────────────
+pandas>=2.0.0            # Evaluation table display
+
+# ── HTTP (Ollama integration) ─────────────────────────────────────────────────
+requests>=2.31.0
